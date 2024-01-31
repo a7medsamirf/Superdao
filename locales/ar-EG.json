@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "Home": "الرئيسية",
+    "HomeV1": "الرئيسية V1",
+    "HomeV2": "الرئيسية V2 ",
+    "Playbook": "القواعد",
+    "Jobs": "الوظائف",
+    "Products": "المنتجات",
+    "Test": "تجريبى",
+    "Blog": "المقالات",
+    "Directory": "الدليل",
+    "About":"معلومات عنا",
+    "Roadmapclub":"نادي خارطة الطريق"
+  },
+  "Hero": {
+    "SectionTitle": "ابدأ سوبرداو في ثوانٍ",
+    "SectionSubtitle": "عملية سهلة خطوة بخطوة لبدء وإدارة وتنمية منظمة مستقلة لا مركزية",
+    "button": "الحصول على الوصول المبكر "
+  },
+  "Apps":{
+      "SectionTitle": "تطبيقات",
+      "Voting": "التصويت",
+      "Payroll": "كشف رواتب",
+      "Treasury": "الخزينة",
+      "Grants": "المنح",
+      "Chat": "المحادثات",
+      "Member": "تحديثات الأعضاء ",
+      "More": "وأكثر +"
+  },
+  "OpSystem": {
+    "SectionTitle": "نظام التشغيل سوبرداو",
+    "Ownership": "الملكية",
+    "Access": "صلاحية التحكم",
+    "promises": "الرموز، NFTs، الوعود، الخيارات، المستويات",
+    "execution": "الوصول إلى البيانات، والإنفاق، والتصويت، وتنفيذ القرار"
+  },
+  "Blockchains":{
+    "SectionTitle": "البلوكشين",
+    "Ethereum": "ايثريوم",
+    "Binance": "بينانس",
+    "Solana": "سولانا",
+    "Avalanche": "أفالانش",
+    "Terra": "تيرا",
+    "NEAR": "نير",
+    "Polygon": "بوليغون",
+    "More": "وأكثر +"
+  },
+  "Creators":{
+    "SectionTitle": "القوى العظمى للمبدعين",
+    "Formations": "التشكيلات",
+    "StartePack": "حزمة المبتدئين",
+    "AppEcosystem": "النظام البيئي للتطبيق",
+    "TemplateBased": "إنشاء DAO القائم على القالب بنقرة واحدة",
+    "MemberDirectory": "دليل الأعضاء ومكافآت المساهمين",
+    "ThirdParty": "تطبيقات الطرف الثالث لجميع الاحتياجات"
+  },
+  "features": {
+    "SectionTitle": "تغيير كل قطاع الصناعة ",
+    "DeFi": "التمويل اللامركزي",
+    "Investment": "استثمار",
+    "Creators": "المبدعين",
+    "Metaverse": "ميتافيرس",
+    "Communities": "مجتمعات",
+    "Startups": "الشركات الناشئة",
+    "Nonprofits": "المنظمات غير الربحية",
+    "Professionals": "المهنيين",
+    "Corporations": "الشركات",
+    "Decentralize-governance": "الحكم اللامركزي",
+    "Scout-and-pick-together": "الكشفية واختيار معا",
+    "Remove-middlemen": "أزل الوسطاء، امتلك عملك",
+    "Build-virtual": "بناء شركات السلع الافتراضية",
+    "Build-shared": "بناء الموارد المشتركة",
+    "Reward-early": "مكافأة المتبنين الأوائل",
+    "Raise-funds": "جمع الأموال، وتخصيص الموارد",
+    "Form-freelancer": "تشكيل النقابات المستقلة",
+    "Reinvent-loyalty": "إعادة اختراع برامج الولاء"
+  },
+  "Superpower": {
+    "SectionTitle": "احصل على قوى DAO الخارقة",
+    "Give-equity":  "منح الأسهم للمساهمين",
+    "Raise-funds": "جمع الأموال باستخدام الرموز المميزة و NFTS",
+    "Make-decisions": "اتخاذ القرارات معًا",
+    "Operate-globally":   "العمل على مستوى العالم"
+  },
+  "Idea":{
+    "SectionTitle": "ما هي فكرة DAO الخاصة بك؟",
+    "SectionSubtitle": "دعونا نتحدث ونرى كيف يمكننا المساعدة",
+    "Telegram": "تليجرام",
+    "Twitter": "تويتر",
+    "Email": "البريد الإلكتروني"
+  },
+  "Learnmore":{
+    "SectionTitle": "تعلم أكثر",
+    "guide": "دليل المبتدئين",
+    "stories": "قصص نجاح",
+    "Directory": "الدليل",
+    "Briefing": "إحاطة DAO من الاختصاصي",
+    "largest": "أكبر المنظمات اللامركزية المستقلة من حيث الحد الأقصى",
+    "ecosystem": "قوائم تويتر لنظام DAO البيئي حسب النقابة"
+  },
+    "partners":{
+      "SectionTitle": "شركائنا فى النجاح"
+    },
+  "app_title": "سوبرداو",
+  "home_title": "الرئيسية"
+
+  }
+
+
+
+
+
+  

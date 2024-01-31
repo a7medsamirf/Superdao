@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "Home": "Home",
+    "HomeV1": "Home V1",
+    "HomeV2": "Home V2",
+    "Playbook": "Playbook",
+    "Jobs": "Jobs",
+    "Products": "Products",
+    "Test": "Test",
+    "Blog": "Blog",
+    "Directory": "Directory",
+    "About":"About Us",
+    "Roadmapclub":"Roadmap club"
+  },
+  "Hero": {
+    "SectionTitle": "Start a DAO in seconds",
+    "SectionSubtitle": "An easy step-by-step process to start, manage,and grow a decentralized autonomous organization",
+    "button": "Get early access"
+  },
+  "Apps":{
+    "SectionTitle": "Apps",
+    "Voting": "Voting",
+    "Payroll": "Payroll",
+    "Treasury": "Treasury",
+    "Grants": "Grants",
+    "Chat": "Chat",
+    "Member": "Member updates",
+    "More": "+ More"
+  },
+  "OpSystem": {
+    "SectionTitle": "Superdao operating system",
+    "Ownership": "Ownership",
+    "Access": "Access control",
+    "promises": "Tokens, NFTs, promises, options, levels",
+    "execution": "Data access, spending, voting, decision execution"
+  },
+  "Blockchains":{
+    "SectionTitle": "Blockchains",
+    "Ethereum": "Ethereum",
+    "Binance": "Binance",
+    "Solana": "Solana",
+    "Avalanche": "Avalanche",
+    "Terra": "Terra",
+    "NEAR": "NEAR",
+    "Polygon": "Polygon",
+    "More": "+ More"
+  },
+  "Creators":{
+    "SectionTitle": "Superpowers for creators",
+    "Formations": "Formations",
+    "StartePack": "Starte Pack",
+    "AppEcosystem": "App Ecosystem",
+    "TemplateBased": "Template-based DAO creation in one click",
+    "MemberDirectory": "Member directory and contributor rewards",
+    "ThirdParty": "Third party apps for every need"
+
+
+  },
+  "features": {
+    "SectionTitle": "Change every industry sector",
+    "DeFi": "DeFi",
+    "Investment": "Investment",
+    "Creators": "Creators",
+    "Metaverse": "Metaverse",
+    "Communities": "Communities",
+    "Startups": "Startups",
+    "Nonprofits": "Nonprofits",
+    "Professionals": "Professionals",
+    "Corporations": "Corporations",
+    "Decentralize-governance": "Decentralize governance",
+    "Scout-and-pick-together": "Scout and pick together",
+    "Remove-middlemen": "Remove middlemen, own your work",
+    "Build-virtual": "Build virtual goods businesses",
+    "Build-shared": "Build shared resources",
+    "Reward-early": "Reward early adopters",
+    "Raise-funds": "Raise funds, allocate resources",
+    "Form-freelancer": "Form freelancer guilds",
+    "Reinvent-loyalty": "Reinvent loyalty programs"
+  },
+  "Superpower": {
+    "SectionTitle": "Get DAO superpowers",
+    "Give-equity": "Give equity to contributors",
+    "Raise-funds": "Raise funds with tokens & NFTs",
+    "Make-decisions": "Make decisions together",
+    "Operate-globally": "Operate globally"
+  },
+  "Idea":{
+    "SectionTitle": "What's your DAO idea ?",
+    "SectionSubtitle": "Let’s chat and see how we can help",
+    "Telegram": "Telegram",
+    "Twitter": "Twitter",
+    "Email": "Email"
+  },
+  "Learnmore":{
+    "SectionTitle": "Learn More",
+    "guide": "Beginners guide",
+    "stories": "Success stories",
+    "Directory": "Directory",
+    "Briefing": "DAO Briefing from The Generalist",
+    "largest": "The largest DAOs by cap on Deepdao.io",
+    "ecosystem": "Twitter lists for DAO ecosystem by Guild"
+  },
+  "partners":{
+    "SectionTitle": "Our partners in success"
+  },
+  "app_title": "Superdao",
+  "home_title": "Home"
+
+  }
+

@@ -1,43 +1,23 @@
 <script setup lang="ts">
-/* const localePath = useLocalePath()
-  export default {
-    name: "AppHeader",
-    data() {
-      return {
-        links: [{
-            title: "Home",
-            to: "/"
-          },
-          {
-            title: "test",
-            to: "/test"
-          },
-          {
-            title: "Products",
-            to: "/products"
-          },
-          {
-            title: "Lang",
-            to: "/lang"
-          },
-        ],
-      };
-    },
-  }; */
+import { ref } from 'vue'
+import { useFixedHeader } from 'vue-use-fixed-header'
+const headerRef = ref(null)
+const { styles } = useFixedHeader(headerRef)
+
 </script>
 <template>
   <header
-    class="relative flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full text-sm py-4"
+   ref="headerRef" :style="styles"
+    class="fixed Header flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full text-sm py-5"
   >
     <nav
-      class="max-w-[85rem] w-full mx-auto px-4 flex flex-wrap basis-full items-center justify-between"
+      class="max-w-[85rem] w-full mx-auto px-4 flex flex-wrap basis-full items-center justify-between rounded-lg relative p-5 border border-gray-200 bg-white dark:bg-dark dark:border-dark-border "
       aria-label="Global"
     >
       <Logo />
 
       <div class="sm:order-3 flex items-center">
         <button class="mx-3"><LangSwitcher /></button>
-
         <button class="mx-3"><ThemeSwitcher /></button>
         <button
           type="button"
@@ -91,39 +71,8 @@
   </header>
 </template>
 
-<!-- <template>
-  <header :class="{ 'sticky': isSticky }" class="bg-gray-800 text-white py-4 transition-all duration-500">
- 
-    <nav class="container mx-auto">
-   
-    </nav>
-  </header>
-</template>
-
-<script setup>
-import { ref, onMounted, onBeforeUnmount } from 'vue';
-
-const isSticky = ref(false);
-
-const handleScroll = () => {
-  isSticky.value = window.scrollY > 100; 
-};
-
-onMounted(() => {
-  window.addEventListener('scroll', handleScroll);
-});
-
-onBeforeUnmount(() => {
-  window.removeEventListener('scroll', handleScroll);
-});
-</script>
-
-<style scoped>
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1000;
+<style>
+.Header {
+  transition: all 0.5s ease-in-out;
 }
 </style>
- -->

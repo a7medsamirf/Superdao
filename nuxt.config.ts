@@ -109,7 +109,7 @@ export default defineNuxtConfig({
           icon: 'flag-ar.svg'
         },
       ],
-      defaultLocale: "en",
+      defaultLocale: "ar",
 /*       vueI18n: "./i18n.config.ts", */
       detectBrowserLanguage: {
         useCookie: true,

@@ -7,11 +7,10 @@ const { styles } = useFixedHeader(headerRef)
 </script>
 <template>
   <header
-   ref="headerRef" :style="styles"
-    class="fixed Header flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full text-sm py-5"
+    class="relative flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full text-sm py-4"
   >
     <nav
-      class="max-w-[85rem] w-full mx-auto px-4 flex flex-wrap basis-full items-center justify-between rounded-lg relative p-5 border border-gray-200 bg-white dark:bg-dark dark:border-dark-border "
+      class="max-w-[85rem] w-full mx-auto px-4 flex flex-wrap basis-full items-center justify-between"
       aria-label="Global"
     >
       <Logo />
